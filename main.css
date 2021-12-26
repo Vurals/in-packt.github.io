@@ -7,14 +7,14 @@
     color: #000000;
 }
 
-#backgroundBody {
+/*#backgroundBody {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
     background: url(1.jpg);
     background-size: cover;
     background-color:#464646;
-}
+}*/
 
 .fa {
     padding: 20px;
