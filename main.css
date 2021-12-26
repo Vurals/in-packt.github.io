@@ -16,7 +16,7 @@
     background-color:#464646;
 }
 
-.fas {
+.fa {
     padding: 20px;
     font-size: 30px;
     width: 30px;
@@ -29,6 +29,6 @@
     color: #ffce54;
 }
 
-.fas:hover {
+.fa:hover {
     opacity: 0.7;
 }
